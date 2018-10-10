@@ -1,0 +1,29 @@
+Spiral model
+
+In 1988 Boehm developed the spiral model as an iterative model which includes risk analysis and risk management.
+Extends waterfall model by adding iteration to explore/manage risk
+
+Project risk is a moving target. Natural to progress a project cyclically in four step phases
+-Consider alternative scenarios, constraints
+-Identify and resolve risks
+-Execute the phase
+-Plan next phase: e.g. user req, software req, architecture and repeat from start again
+
+
+Strengths-
+	Realism: the model accurately reflects the iterative nature of software development on projects with unclear requirements
+	Flexible: incorporates the advantages of the waterfall and evolutionary methods
+	Reduces risk factors within the development process. 
+	Excellent process visibility with documentation produced at each quadrant and phase.
+	
+Weaknesses-
+	Needs technical expertise in risk analysis and risk management to work well.
+	Model is poorly understood by non-technical management, hence not so widely used
+	Complicated model, needs competent professional management. High administrative overhead.
+	Too involved for small scale projects.
+
+Types of projects and environments it suits-
+	Too involved for small scale projects.
+	
+Critical Factors-
+	

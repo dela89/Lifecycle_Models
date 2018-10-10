@@ -1,0 +1,14 @@
+
+Waterfall
+https://www.linkedin.com/pulse/which-development-methodology-suit-your-project-yulia-pitenko-cma
+
+Incremental
+https://www.testingexcellence.com/incremental-model/
+http://tryqa.com/what-is-incremental-model-advantages-disadvantages-and-when-to-use-it/
+
+Evolutionary
+https://www.pro-technix.com/services/software/models_evolution_frame.html
+
+Spiral
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=14&cad=rja&uact=8&ved=2ahUKEwjGtPah2PvdAhVBLewKHYBXDdIQFjANegQICRAC&url=http%3A%2F%2Fwww.dtic.mil%2Fdtic%2Ftr%2Ffulltext%2Fu2%2Fa227328.pdf&usg=AOvVaw0GPxRXhRq9MhFsBltbgly9
+https://www.pro-technix.com/services/software/models_spiral_frame.html

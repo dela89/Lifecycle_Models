@@ -12,7 +12,7 @@ Weaknesses-
 	Excludes the client during the process
 	
 	
-Types of projects an environments it suits-
+Types of projects and environments it suits-
 	Suited to a project where the requirements will not change
 	A strict and structured development environment requiring extensive documentation
 	

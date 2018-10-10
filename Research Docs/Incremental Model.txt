@@ -1,0 +1,23 @@
+Incremental Model
+
+The incremental build model is a method of software development where the model is designed, 
+implemented and tested incrementally (a little more is added each time) until the product is finished.
+Each module passes through the requirements, design, implementation and testing phases.
+
+Strengths-
+	Generates working software quickly and early during the software life cycle
+	More flexible – less costly to change scope and requirements.
+	Each iteration is an easily managed milestone.
+	
+Weaknesses-
+	Total cost is higher than waterfall
+	Falls apart without solid planning and design
+	
+	
+Types of projects and environments it suits-
+	A project where there is a need to get a product to the market early
+	Where a new technology is being used
+	
+Critical Factors-
+	Major requirements must be defined; however, some details can evolve with time.
+	This model can be used when the requirements of the complete system are clearly defined and understood.
