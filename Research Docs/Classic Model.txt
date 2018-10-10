@@ -1,0 +1,23 @@
+Also known as the Waterfall model
+
+Strengths-
+	Simple clear structure
+	End goal determined early	
+	Easy to document during each phase
+	
+	
+Weaknesses-
+	Changes to scope or goals are very difficult to accommodate
+	Delays testing until after completion
+	Excludes the client during the process
+	
+	
+Types of projects an environments it suits-
+	Suited to a project where the requirements will not change
+	A strict and structured development environment requiring extensive documentation
+	
+	
+Critical Factors-
+	Requirements do not change
+	Plan is precise and funding is sufficient
+	
